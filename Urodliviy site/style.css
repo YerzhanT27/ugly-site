@@ -1,0 +1,71 @@
+body {
+    font-family: "Whisper", cursive;
+}
+.hugetext{
+    font-size: 400px;
+}
+img {
+    width: 350px;
+}
+.textcenter{
+    text-align: center;
+}
+h1{
+    margin: 0;
+}
+.btn{
+    background-color: black;
+    color: greenyellow;
+    padding: 100px 150px 100px 217px;
+    border-radius: 100000px;
+}
+.hero{
+    margin: 0;
+    background-color: #492E87;
+    color: goldenrod;
+    height: 40vh;
+    display: flex;
+}
+.korobka{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+h1{
+    line-height: 120px;
+    margin: 50px 0;
+    font-size: 9rem;
+}
+h2{
+    font-size: 2rem;
+    margin: 0;
+    font-weight: 400;
+}
+h3{
+    font-size: 2rem;
+    margin: 0;
+    font-weight: 400;
+}
+.photo{
+    width: 1000%;
+    border: 10px solid rgb(255, 0, 0);
+    border-radius: 10000px;
+    rotate: 150deg;
+    box-shadow: 31px 43px 12px 5 rgb(19, 19, 19);
+}
+.prizrak {
+    z-index: 7;
+    top: 500px;
+    right: 300px;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    background-color: green;
+    box-shadow: 0 0 300px 100px brown;
+}
+
+
